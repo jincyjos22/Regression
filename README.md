@@ -7,10 +7,14 @@ This project predicts house prices using different machine learning models.
 It compares multiple models to find which one performs best.
 
 📂 Dataset
+
+
 • California Housing dataset
 • Target variable: median_house_value
 
 ⚙️ Tools Used
+
+
 • Python
 • NumPy
 • Pandas
@@ -18,6 +22,8 @@ It compares multiple models to find which one performs best.
 
 
 🔍 Steps
+
+
 • Load the dataset
 • Handle missing values
 • Split data into training and testing sets
@@ -27,6 +33,8 @@ It compares multiple models to find which one performs best.
 
 
 🤖 Models Used
+
+
 • Linear Regression
 • Decision Tree
 • Random Forest
@@ -35,6 +43,8 @@ It compares multiple models to find which one performs best.
 
 
 📏 Evaluation Metrics
+
+
 • Mean Squared Error (MSE)
 • Mean Absolute Error (MAE)
 • R² Score
